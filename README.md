@@ -1,32 +1,35 @@
-# Hi there, I'm Aliba Nadeem! 👋 
+<!-- Top Waving Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:171b26,100:0070f3&height=220&section=header&text=Aliba%20Nadeem&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20%26%20AI%20Engineer%20%7C%20Spatial%20Perception%20%26%20Tracking&descAlignY=58&descAlign=50" width="100%" />
+</div>
 
 <div align="center">
 
-  ### 👁️ Computer Vision & AI Engineer
-  **Building real-time vision pipelines, spatial intelligence, and end-to-end perception systems.**
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliba7/)
-  [![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialibanadeem)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliba7/)
+  [![GitHub Profile](https://img.shields.io/badge/GitHub-ialibanadeem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialibanadeem)
   [![Profile Visitors](https://komarev.com/ghpvc/?username=ialibanadeem&color=0070f3&style=for-the-badge&label=PROFILE+VISITORS)](https://github.com/ialibanadeem)
   [![Total Stars](https://img.shields.io/github/stars/ialibanadeem?style=for-the-badge&logo=github&color=ffc107&label=TOTAL%20STARS)](https://github.com/ialibanadeem?tab=repositories)
   [![Location](https://img.shields.io/badge/Target-Europe%20%7C%20EU%20Remote%20%26%20Relocation-blue?style=for-the-badge&logo=europeanunion&logoColor=white)](#-seeking-computer-vision-engineer-roles-in-europe)
 
 </div>
 
+<br />
+
 ---
 
 ### 💡 About Me
 
-I am a **Computer Vision Engineer** & **Computer Science** student with hands-on experience building real-time multi-object tracking, spatial geometry, optical flow, and keypoint detection pipelines.
+> **Computer Vision Engineer** specializing in real-time object tracking, multi-camera geometry, optical flow, keypoint detection, and spatial field mapping.
 
-I bridge deep learning models with solid software engineering fundamentals—having collaborated with engineering teams across **Spain, Germany, and the US** to deliver high-performance software.
-
-- 🎓 **Education**: B.S. in Computer Science @ Ziauddin University
-- 📜 **Certification**: Certified Computer Vision Engineer (MathWorks)
-- 🔭 **Currently Building**: Real-time multi-camera sports analytics pipelines & spatial homography mapping.
-- 🎯 **Targeting**: Computer Vision & AI Engineering roles across **Europe** (Open to relocation & EU remote).
-- 🍝 **Fuel**: Powered by espresso, authentic homemade pasta, and matrix calculus.
-- 🐱 **Code Reviewer**: Co-coding with my cat, who ensures zero bug retention (and tests keyboard durability).
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🎓 B.S. Computer Science @ Ziauddin University                         │
+│  📜 Certified Computer Vision Engineer (MathWorks)                      │
+│  🇪🇺 Experienced in cross-border Agile teams (Spain, Germany, US)        │
+│  🍝 Fueled by espresso, homemade carbonara, and linear algebra          │
+│  🐱 Supervised by my cat (Head of Code Quality & Keyboard Testing)      │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -49,9 +52,26 @@ I bridge deep learning models with solid software engineering fundamentals—hav
 
 </div>
 
+<br />
+
+<div align="center">
+  
+  #### 🏆 GitHub Achievements & Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=ialibanadeem&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Aliba's GitHub Trophies" />
+
+</div>
+
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🧰 Technical Skills & Tools
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,matlab,js,react,nextjs,git,github,vscode,linux&perline=6" alt="Aliba's Tech Stack Icons" />
+
+</div>
+
+<br />
 
 <table>
   <tr>
@@ -75,7 +95,7 @@ I bridge deep learning models with solid software engineering fundamentals—hav
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Languages & Core CS</b></td>
+    <td width="25%"><b>Languages & Math</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -103,6 +123,12 @@ I bridge deep learning models with solid software engineering fundamentals—hav
 #### ⚽ [Football Video Analytics Engine](https://github.com/ialibanadeem/football-analysis-cv)
 > **Real-time multi-object tracking, team assignment, camera motion compensation & tactical spatial mapping.**
 
+```
+📹 Broadcast Video ──► 🤖 YOLOv8 + ByteTrack ──► 🎨 Jersey K-Means (Team Classification)
+                              │
+                              ├──► 🎥 Optical Flow (CMC) ──► 📐 Homography Matrix ──► ⚽ 2D Tactical Pitch
+```
+
 - **Multi-Class Tracking**: Leveraged **YOLOv8** and **ByteTrack** for high-precision tracking of players, referees, and the ball across dynamic broadcast footage.
 - **Team Allocation**: Applied **K-Means Clustering** on player jersey color space for automated, robust team classification.
 - **Camera Motion Compensation (CMC)**: Integrated **Lucas-Kanade Optical Flow** to decouple camera movement from true player velocity.
@@ -115,6 +141,10 @@ I bridge deep learning models with solid software engineering fundamentals—hav
 #### 🎾 [Autonomous AI Tennis Analytics Pipeline](https://github.com/ialibanadeem/tennis-analysis)
 > **End-to-end player & fast-ball tracking, court keypoint detection, homography mapping, and rally analytics.**
 
+```
+🎾 Match Video ──► 🎯 YOLOv5/v8 (Ball/Player) ──► 📌 ResNet-50 Keypoint (Court) ──► 🗺️ 2D Court Mapping ──► 📊 Live Speed & Rally Count
+```
+
 - **Ball & Player Perception**: Fine-tuned **YOLOv5** and **YOLOv8** combined with **ResNet-50** keypoint extraction to track ultra-fast tennis ball trajectories and player movement.
 - **Spatial Homography**: Mapped 3D video frames directly to a 2D Mini-Court representation via precise court landmark keypoints.
 - **Action & Motion Analytics**: Computes real-time shot speeds (km/h), individual player velocity vectors, total distance covered (m), and live rally shot counters.
@@ -125,12 +155,14 @@ I bridge deep learning models with solid software engineering fundamentals—hav
 
 ### 💼 Experience & Credentials
 
-#### 💻 **Software Developer** | Axionix X Pvt Ltd. *(2024 - 2025)*
-- Collaborated in Agile engineering sprints alongside cross-functional teams in **Spain, Germany, and the US**.
-- Engineered high-performance web interfaces (React/Next.js), reduced load times by 25%, and built production REST APIs.
+```
+  🏢 Software Developer | Axionix X Pvt Ltd. (2024 - 2025)
+  └─ Collaborated in Agile sprints with cross-functional engineering teams in Spain, Germany, and the US.
+  └─ Optimized web performance (Next.js/React.js) by 25% and built production REST APIs.
 
-#### 🏅 **Computer Vision Engineer Professional Certificate** | MathWorks
-- Practical training in image processing, object detection, multi-object tracking, optical flow, image registration, and model deployment using MATLAB & OpenCV.
+  🏅 Computer Vision Engineer Professional Certificate | MathWorks
+  └─ Certified in Image Processing, MOT, Optical Flow, Deep Learning, Image Registration, and Deployment.
+```
 
 ---
 
@@ -138,10 +170,12 @@ I bridge deep learning models with solid software engineering fundamentals—hav
 
 I am actively looking for **Full-time Computer Vision / Machine Learning Engineer** opportunities in **European tech hubs** (Germany, Netherlands, UK, Spain, Switzerland, Sweden) or **EU-friendly remote roles**.
 
-#### What I Bring to Your Engineering Team:
-- **Cross-Border Collaboration**: Proven track record working with European engineering teams across time zones in Agile workflows.
-- **Geometric & Mathematical Rigor**: Expertise in perspective transformations, camera calibration, homography, and optical flow.
-- **Full-Stack Vision Integration**: Ability to bridge underlying C++/Python CV algorithms with clean API wrappers and user interfaces.
+```
+  ✨ What I Bring:
+  ├─ 🇪🇺 Cross-Border Collaboration (Experience in Spain/Germany timezones)
+  ├─ 📐 Geometric & Spatial Rigor (Homography, Optical Flow, 2D/3D Calibration)
+  └─ ⚡ Production Mindset (Clean Python/C++ integration with UI/APIs)
+```
 
 ---
 
@@ -162,5 +196,9 @@ I am actively looking for **Full-time Computer Vision / Machine Learning Enginee
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliba7/)
 
   *“Pixels are data, motion is physics, computer vision is magic.”*
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070f3,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
