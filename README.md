@@ -1,7 +1,7 @@
 <div align="center">
 
   # Aliba Nadeem
-  ### 👁️ Computer Vision & AI Perception Engineer
+  ### 👁️ Computer Vision Engineer
 
   *Transforming uncompressed video streams into real-time spatial intelligence & physical-world analytics.*
 
@@ -23,10 +23,6 @@
 
 <table>
   <tr>
-    <td>🎓 <b>Education</b></td>
-    <td>B.S. in Computer Science @ Ziauddin University</td>
-  </tr>
-  <tr>
     <td>📜 <b>Certification</b></td>
     <td>Certified Computer Vision Engineer (MathWorks)</td>
   </tr>
@@ -34,15 +30,11 @@
     <td>🇪🇺 <b>Cross-Border Exp</b></td>
     <td>Collaborated with Agile remote engineering teams across <b>Spain, Germany, and the US</b></td>
   </tr>
-  <tr>
-    <td>🍝 <b>Fuel & Co-Coder</b></td>
-    <td>Powered by homemade carbonara 🍝 & supervised by my cat 🐱</td>
-  </tr>
 </table>
 
 ---
 
-### 🧰 Technical Skills & Keywords
+### 🧰 Technical Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,matlab,js,react,nextjs,git,github,vscode,linux&perline=6" alt="Tech Stack Icons" />
@@ -93,11 +85,6 @@
 
 > Real-time multi-object tracking, jersey color team allocation, camera motion compensation & 2D tactical field mapping.
 
-- **Multi-Object Tracking**: Leveraged **YOLOv8** & **ByteTrack** for player, referee, and ball detection across dynamic broadcast footage.
-- **Team Allocation**: Applied **K-Means Clustering** on player jersey color space for automated team classification.
-- **Camera Motion Compensation (CMC)**: Integrated **Lucas-Kanade Optical Flow** to decouple camera movement from true player velocity.
-- **Perspective Homography**: Mapped 3D broadcast video coordinates into a 2D tactical pitch view, calculating player speeds (km/h), distance covered (m), and ball possession percentage.
-
 [![View Code](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialibanadeem/football-analysis-cv)
 
 ---
@@ -105,10 +92,6 @@
 #### 🎾 [Autonomous Tennis Analytics Pipeline](https://github.com/ialibanadeem/tennis-analysis)
 
 > End-to-end player/ball detection, court landmark keypoint alignment, shot speed estimation & live rally analytics.
-
-- **Ball & Player Perception**: Fine-tuned **YOLOv5/v8** for high-speed ball trajectory tracking and **ResNet-50** for court keypoint extraction.
-- **Spatial Homography**: Mapped 3D perspective frames to a 2D mini-court model using geometric court keypoints.
-- **Action Analytics**: Computed real-time shot speeds (km/h), player movement velocity vectors, total distance covered, and live rally shot counts.
 
 [![View Code](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialibanadeem/tennis-analysis)
 
