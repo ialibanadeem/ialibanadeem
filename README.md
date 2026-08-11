@@ -27,20 +27,24 @@
 
 ---
 
-### 🌟 Quick Overview
+## 🌟 Quick Overview
 
-```
- ┌──────────────────────────────────────────────────────────────────────────┐
- │  💻 Role:           Computer Vision & AI Engineer                        │
- │  ⚽ Specialization: Real-Time Sports Analytics, 2D/3D MOT, Keypoint Detection│
- │  🇪🇺 Remote Overlap: CET / CEST / BST (Full European Time Zone Availability)│
- │  ⚙️ Primary Tools:   OpenCV | Modern C++ (11/14/17) | PyTorch | YOLOv8  │
- └──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-> **Hi! I'm Aliba Nadeem**, a Computer Vision Engineer passionate about building real-time vision applications. I specialize in **sports video analytics (tennis & football)**, keypoint detection, homography, optical flow, and multi-object tracking (ByteTrack). 
+| 💻 Role | ⚽ Core Focus | 🇪🇺 EU Timezones | ⚙️ Primary Tools |
+| :---: | :---: | :---: | :---: |
+| **Computer Vision Engineer** | **Real-Time Sports Analytics** | **CET / CEST / BST Overlap** | **OpenCV • C++ • PyTorch • YOLOv8** |
+
+</div>
+
+<br/>
+
+> **Hi! I'm Aliba Nadeem**, a Computer Vision Engineer passionate about building real-time vision applications.
 >
-> I have proven remote experience collaborating in Agile engineering teams, delivering high-performance code and optimized software pipelines.
+> - 🎾 **Sports Video Analytics**: Specialized in player & ball keypoint detection, court homography mapping, 2D/3D multi-object tracking (ByteTrack), speed estimation, and possession analytics.
+> - ⚡ **High-Performance Vision**: Expert in algorithm design and optimization using OpenCV, Modern C++ (11/14/17), PyTorch, YOLOv8, and Optical Flow.
+> - 🌍 **European Remote Ready**: Full availability during European business hours (CET/CEST/BST) with experience collaborating in Agile engineering teams.
+
 
 ---
 
