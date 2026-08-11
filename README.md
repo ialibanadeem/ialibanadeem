@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052B4,100:00D4FF&height=200&section=header&text=Aliba%20Nadeem&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052B4,100:00D4FF&height=200&section=header&text=Aliba%20Nadeem&fontSize=42&fontColor=ffffff&font=Montserrat&animation=fadeIn" width="100%" />
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+AI+Engineer;Real-Time+Sports+Analytics+Specialist;OpenCV+%7C+Modern+C%2B%2B+%7C+PyTorch;YOLOv8+%26+Multi-Object+Tracking+(ByteTrack);Open+to+European+Remote+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+AI+Engineer;Real-Time+Sports+Analytics+Specialist;OpenCV+%7C+Modern+C%2B%2B+%7C+PyTorch;YOLOv8+%26+Multi-Object+Tracking+(ByteTrack);Open+to+European+Remote+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -17,7 +17,7 @@
   <a href="https://github.com/ialibanadeem">
     <img src="https://img.shields.io/badge/GitHub-ialibanadeem-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#-why-work-with-me-european-remote-roles">
+  <a href="#why-work-with-me-european-remote-roles">
     <img src="https://img.shields.io/badge/Remote_Work-CET_%2F_Europe_Friendly-0052B4?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌟 Quick Overview
+## Quick Overview
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## Tech Stack & Capabilities
 
 <div align="center">
 
@@ -63,12 +63,12 @@
 
 ---
 
-## 🏆 Featured Computer Vision Projects
+## Featured Computer Vision Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎾 Tennis Match Analysis System</h3>
+      <h3 align="center">Tennis Match Analysis System</h3>
       <p align="center">
         <a href="https://github.com/ialibanadeem/tennis-analysis">
           <img src="https://img.shields.io/badge/GitHub-tennis--analysis-181717?style=for-the-badge&logo=github" />
@@ -85,7 +85,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚽ Football Match Analysis System</h3>
+      <h3 align="center">Football Match Analysis System</h3>
       <p align="center">
         <a href="https://github.com/ialibanadeem/football-analysis-cv">
           <img src="https://img.shields.io/badge/GitHub-football--analysis--cv-181717?style=for-the-badge&logo=github" />
@@ -106,7 +106,7 @@
 
 ---
 
-## 🇪🇺 Why Work With Me (European Remote Roles)
+## Why Work With Me (European Remote Roles)
 
 - ⏰ **CET / CEST / BST Overlap**: 100% available during European business hours.
 - 🤝 **Proven International Remote Experience**: Successfully integrated into cross-functional distributed teams.
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-### 📬 Get In Touch
+### Get In Touch
 
 Let's discuss how I can bring value to your Computer Vision or AI engineering team!
 
