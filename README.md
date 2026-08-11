@@ -11,9 +11,6 @@
   <br/><br/>
 
   <!-- Quick Action Badges -->
-  <a href="mailto:alibanadeem23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alibanadeem23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/aliba-nadeem">
     <img src="https://img.shields.io/badge/LinkedIn-Aliba_Nadeem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -43,7 +40,7 @@
 
 > **Hi! I'm Aliba Nadeem**, a Computer Vision Engineer passionate about building real-time vision applications. I specialize in **sports video analytics (tennis & football)**, keypoint detection, homography, optical flow, and multi-object tracking (ByteTrack). 
 >
-> I have proven remote experience collaborating in Agile engineering teams across **Spain, Germany, and the US**, delivering high-performance code and optimized software pipelines.
+> I have proven remote experience collaborating in Agile engineering teams, delivering high-performance code and optimized software pipelines.
 
 ---
 
@@ -105,44 +102,12 @@
 
 ---
 
-## 💼 Work Experience & Track Record
-
-#### 🔹 **Software Developer** — *Axionix X Pvt Ltd (Remote)*
-> **Jun 2024 – Jul 2025** | *Distributed European & US Teams*
-
-- **Cross-Border Agile Collaboration**: Worked directly with engineering teams in **Spain, Germany, and the US**.
-- **Performance Optimization**: Optimized application architecture, reducing load times by **25%**.
-- **API & UI Development**: Built reusable component libraries (React/Next.js) and integrated REST APIs, boosting user engagement by **35%**.
-
----
-
-## 📜 Certifications
-
-```
- 📜 MathWorks Certified Computer Vision Engineer Professional
- └─ Training in image processing, 2D/3D object detection, multi-object tracking,
-    optical flow, deep learning, image registration, and MATLAB deployment.
-```
-
----
-
 ## 🇪🇺 Why Work With Me (European Remote Roles)
 
 - ⏰ **CET / CEST / BST Overlap**: 100% available during European business hours.
-- 🤝 **Proven International Remote Experience**: Successfully integrated into cross-functional teams across Germany, Spain, and US.
+- 🤝 **Proven International Remote Experience**: Successfully integrated into cross-functional distributed teams.
 - ⚽ **Domain Expertise in Sports Tech**: Strong alignment with real-time video analytics, tennis/padel, and football tracking requirements.
 - ⚡ **C++ & Python Proficiency**: High-speed algorithm development combined with rapid prototyping skills.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ialibanadeem&show_icons=true&theme=radical&border_radius=10" height="170" alt="stats card" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ialibanadeem&layout=compact&theme=radical&border_radius=10" height="170" alt="top languages" />
-
-</div>
 
 ---
 
@@ -152,7 +117,6 @@
 
 Let's discuss how I can bring value to your Computer Vision or AI engineering team!
 
-[![Email Badge](https://img.shields.io/badge/Gmail-alibanadeem23%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alibanadeem23@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aliba_Nadeem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliba-nadeem)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-ialibanadeem-black?style=for-the-badge&logo=github)](https://github.com/ialibanadeem)
 
