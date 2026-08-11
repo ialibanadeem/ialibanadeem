@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+AI+Engineer;Real-Time+Sports+Analytics+Specialist;OpenCV+%7C+Modern+C%2B%2B+%7C+PyTorch;YOLOv8+%26+Multi-Object+Tracking+(ByteTrack);Open+to+European+Remote+Roles+🇪🇺" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+AI+Engineer;Real-Time+Sports+Analytics+Specialist;OpenCV+%7C+Modern+C%2B%2B+%7C+PyTorch;YOLOv8+%26+Multi-Object+Tracking+(ByteTrack);Open+to+European+Remote+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -139,8 +139,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ialibanadeem&show_icons=true&theme=radical&border_radius=10" height="170" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialibanadeem&layout=compact&theme=radical&border_radius=10" height="170" alt="top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ialibanadeem&show_icons=true&theme=radical&border_radius=10" height="170" alt="stats card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ialibanadeem&layout=compact&theme=radical&border_radius=10" height="170" alt="top languages" />
 
 </div>
 
